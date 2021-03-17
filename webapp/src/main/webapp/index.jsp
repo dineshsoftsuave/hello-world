@@ -1,4 +1,3 @@
-<h1> Welcome to Valaxy Technologies </h1>
-<h2> Steup and deploy using jenkins </h2>
-
-
+<h1> Welcome to Softsuave Technologies </h1>
+<h2> Setup and Deployment using Jenkins are Completed </h2>
+<h2> Thank you</h2>
